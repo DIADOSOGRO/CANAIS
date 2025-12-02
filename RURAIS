@@ -1,9 +1,25 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="", AGRO BRASIL TV
+https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8
+
+
 #EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvnp9xBEPaD5I_coe8gPmRw6Tto-QwclFSP66-w7iLRkvH5YnwGLZ8k9W8TEU0hwBlsbHkScTG0_4yB7n2kGKjD82GojvGqh9BHVxSog3jdggZpUfE-56BO3awpeOJj5g-T-fKnSsxUpiMyRSs9oVxS7n_5cy1huZWnUdcB2Bz28WHW4kAfueDm-dvDLV/s320/CANAIS%20RURAIS.png", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/ITU2KdK7uAVAQmkS392582546500817.m3u8
 
 
 #EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvnp9xBEPaD5I_coe8gPmRw6Tto-QwclFSP66-w7iLRkvH5YnwGLZ8k9W8TEU0hwBlsbHkScTG0_4yB7n2kGKjD82GojvGqh9BHVxSog3jdggZpUfE-56BO3awpeOJj5g-T-fKnSsxUpiMyRSs9oVxS7n_5cy1huZWnUdcB2Bz28WHW4kAfueDm-dvDLV/s320/CANAIS%20RURAIS.png", CANAL DO BOI
 https://aovivo3.equipea.com.br:5443/aovivort/streams/8faOqTnYndVM0WLq116025748788001.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="", TERRA VIVA
+https://www.dailymotion.com/cdn/live/video/x8qceqq.m3u8?sec=cisOdmuACtL32l8C-MaFmyFgT5nqyTGWO8qTHNivx0xZEQGeertqXZHSvKEph9kQiYBm49aefVpYy29JPNmFo7CA-OzuhDeWn_NYnJ0HqZQ&dmTs=159745&dmV1st=1cc33428-c89d-5de8-7cae-7e459556723b
+
+
+#EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="", TV COOP
+https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="", TV FOLHA DO CAMPO
+https://s1.tvr.ovh/video64622/video64622/chunklist_w1633330751.m3u8
