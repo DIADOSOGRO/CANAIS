@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="", AGRO BRASIL TV
-https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8
-
-
 #EXTINF:-1 group-title="CANAIS RURAIS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvnp9xBEPaD5I_coe8gPmRw6Tto-QwclFSP66-w7iLRkvH5YnwGLZ8k9W8TEU0hwBlsbHkScTG0_4yB7n2kGKjD82GojvGqh9BHVxSog3jdggZpUfE-56BO3awpeOJj5g-T-fKnSsxUpiMyRSs9oVxS7n_5cy1huZWnUdcB2Bz28WHW4kAfueDm-dvDLV/s320/CANAIS%20RURAIS.png", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/ITU2KdK7uAVAQmkS392582546500817.m3u8
 
