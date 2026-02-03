@@ -43,4 +43,4 @@ https://s1.tvr.ovh/video64622/video64622/chunklist_w16416
 
 
 #EXTINF:-1 tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Terra_Viva_logo.png" group-title="Canais Brasileiros",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/band_live/band/playlist.m3u8
