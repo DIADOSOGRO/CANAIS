@@ -1,41 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", AGRO CANAL
+#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbhQaJi0JOPg2XhcUcM2xmG_ClrUcp3M4bu0dDVDT-PtFaCViy9oGR6KZQGCgcUDK_g7oGNNsLvQJSiBYpizgtupnl3r-25ItsVBazwMT-53iPBGNfYQBVsfzDfFi4nhFeO5slj3ekboqB7PIX2ov2Zz6FJazL8KOV0rmnnTraILRLc0s6gMCaIBbltZ5r/s300/AGROCANAL.png", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/ITU2KdK7uAVAQmkS392582546500817.m3u8
 
 
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", BRTV MAX
-https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1302226624.m3u8
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", CANAL DO BOI
+#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Kahw2B2gY7WNALFszIfxOPvTQCpOFyVqtgL4PZ6-TF2ObIYyf1WUjZlDHN8W7qVXIdbLRZkw5vhYeyI1l2janBbQVK8sp6VUwJjUIXcZYMC7SgZNmf5khnMc7QefgvLaB-z9XkzYa53bVBO7hUnEBtPGZm0qgg-4VZl5_Wi_aOckj0aaQhyphenhyphenn16PKvkKM/s320/CANALDOBOI.png", CANAL DO BOI
 https://aovivo3.equipea.com.br:5443/aovivort/streams/8faOqTnYndVM0WLq116025748788001.m3u8
 
 
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", CANAL DO CRIADOR
-https://www.youtube.com/live/5t4KgvWNqhI?si=Le-hx_qq8BDAKrop
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", CANAL RURAL
+#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4LCsJGPo_imST_9hCEruzYqg8zvgTaPu1EdrSnJGppCB3VjBS4LZXgCmtjJ_N2Abhcwc_6nGwBw0JDrjBduLN7K097KKfQxUGdOVriiU1yOJv0ZyKT7l15nJW46woWXQdtTRGChU58YhbXuba6ctqzClYicu7HlEUg9Am5T30gFfKIre09jVr09mddcV0/s600/CANALRURAL.png", CANAL RURAL
 https://www.youtube.com/live/kLJmbmp23OI?si=KU7d11M8UJRucc2o
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", CANAL SOLO FÉRTIL
-https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756.m3u8
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", NOVA TV AGROTOUR
-https://video01.kshost.com.br:4443/marcelo7614/marcelo7614/chunklist_w1655145961.m3u8
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", TV AGRO É NOSSO
-https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w781622393.m3u8
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", TV COOP
-https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="AGRONEGÓCIO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI97bEd25XrDh24iIJM6zfUs3GUilYBQvrHHTncK644CaBZ1mZHQ0df0ZbvjSgn33dQWI_wSQr682adyOiPqVmzNJFM50QUDckx2u06dcj23PbBa8Jd45v2kg122r7TsKll1UAHrTSJ9roIs50u1VGBq2SbVIwONHcRsh6R27i9TsHgpLxWWnPX0GwTnhX/s320/AGRONEG%C3%93CIO.png", TV FOLHA DO CAMPO
-https://s1.tvr.ovh/video64622/video64622/chunklist_w16416
